@@ -158,7 +158,7 @@ h3 {
 /* products */
 
 .products__nav-list {
-  gap: 10px;
+  gap: 8px;
 }
 
 .products__nav-item {
@@ -196,5 +196,13 @@ h3 {
   display: inline-block;
   margin-right: 10px;
 }
+.quality-min {
+    display: none;
+}
 
+/* services */
 
+.services__item {
+    font-size: 20px;
+    line-height: normal;
+}
