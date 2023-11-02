@@ -1,0 +1,21 @@
+:root {
+  /* width */
+  --w-container: 1084px;
+
+  /* padding */
+  --ptb-header: 20px;
+
+  /* font-size */
+
+  /* line-height */
+
+  /* color */
+  --c-body: #FFF;
+  --c-text: #000;
+  --c-body-reverse: #000;
+  --c-text-reverse: #FFF;
+  --c-btn: #000;
+  --c-btn-reverse: #FFF;
+  --c-text-card: #252C32;
+  --c-selection: #000;
+}

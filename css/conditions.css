@@ -1,0 +1,4 @@
+::selection {
+  color: var(--c-text-reverse);
+  background-color: var(--c-selection);
+}
